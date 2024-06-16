@@ -1,0 +1,122 @@
+digraph D {
+	overlap=false
+	node [style="filled"]
+	"Alice in Chains" -> "Godsmack"
+	"Alice in Chains" -> "System of a Down"
+	"Alice in Chains" [URL="https://en.wikipedia.org/wiki/Alice_in_Chains" fillcolor="#aabbcc"founded="1987"]
+	"Arcade Fire" [URL="https://en.wikipedia.org/wiki/Arcade_Fire" founded="2001"]
+	"Arctic Monkeys" [URL="https://en.wikipedia.org/wiki/Arctic_Monkeys" founded="2002"]
+	"Avenged Sevenfold" [URL="https://en.wikipedia.org/wiki/Avenged_Sevenfold" founded="1999"]
+	"Bad Brains" -> "Deftones"
+	"Bad Brains" -> "System of a Down"
+	"Bad Brains" [URL="https://en.wikipedia.org/wiki/Bad_Brains" founded="1976"]
+	"Bauhaus" -> "System of a Down"
+	"Bauhaus" [URL="https://en.wikipedia.org/wiki/Bauhaus_(band)" founded="1978"]
+	"Belle and Sebastian" [URL="https://en.wikipedia.org/wiki/Belle_and_Sebastian" founded="1996"]
+	"Black Sabbath" -> "Alice in Chains"
+	"Black Sabbath" -> "Soundgarden"
+	"Black Sabbath" -> "System of a Down"
+	"Black Sabbath" [URL="https://en.wikipedia.org/wiki/Black_Sabbath" founded="1968"]
+	"Black Veil Brides" [URL="https://en.wikipedia.org/wiki/Black_Veil_Brides" founded="2006"]
+	"Chvrches" [URL="https://en.wikipedia.org/wiki/Chvrches" founded="2011"]
+	"David Bowie" -> "Depeche Mode"
+	"David Bowie" [URL="https://en.wikipedia.org/wiki/David_Bowie" founded="1960"]
+	"Dead Kennedys" -> "System of a Down"
+	"Dead Kennedys" [URL="https://en.wikipedia.org/wiki/Dead_Kennedys" founded="1978"]
+	"Def Leppard" -> "System of a Down"
+	"Def Leppard" [URL="https://en.wikipedia.org/wiki/Def_Leppard" founded="1976"]
+	"Deftones" [URL="https://en.wikipedia.org/wiki/Deftones" founded="1988"]
+	"Depeche Mode" -> "System of a Down"
+	"Depeche Mode" [URL="https://en.wikipedia.org/wiki/Depeche_Mode" founded="1980"]
+	"Faith No More" -> "Deftones"
+	"Faith No More" [URL="https://en.wikipedia.org/wiki/Faith_No_More" founded="1983"]
+	"Godsmack" [URL="https://en.wikipedia.org/wiki/Godsmack" founded="1995"]
+	"Interpol" [URL="https://en.wikipedia.org/wiki/Interpol_(band)" founded="1997"]
+	"Joy Division" -> "My Bloody Valentine"
+	"Joy Division" -> "New Order"
+	"Joy Division" -> "the Cure"
+	"Joy Division" [URL="https://en.wikipedia.org/wiki/Joy_Division" founded="1976"]
+	"Kraftwerk" -> "Depeche Mode"
+	"Kraftwerk" -> "New Order"
+	"Kraftwerk" [URL="https://en.wikipedia.org/wiki/Kraftwerk" founded="1970"]
+	"Daft Punk" -> "Avenged Sevenfold"
+	"Daft Punk" [URL="https://en.wikipedia.org/wiki/Daft_Punk" founded="1993"]
+	"Iron Maiden" -> "Metallica"
+	"Iron Maiden" [URL="https://en.wikipedia.org/wiki/Iron_Maiden" founded="1975"]
+	"Def Leppard" -> "Avenged Sevenfold"
+	"Led Zeppelin" -> "Avenged Sevenfold"
+	"Black Sabbath" -> "Avenged Sevenfold"
+	"Rolling Stones" -> "Avenged Sevenfold"
+	"Rolling Stones" [URL="https://en.wikipedia.org/wiki/The_Rolling_Stones" founded="1962"]
+	"Metallica" -> "Black Veil Brides"
+	"Avenged Sevenfold" -> "Black Veil Brides"
+	"Marilyn Manson" -> "Avenged Sevenfold"
+	"Kiss" -> "Avenged Sevenfold"
+	"Marylin Manson" [URL="https://en.wikipedia.org/wiki/Marilyn_Manson" founded="1989"]
+	"Kiss" [URL="https://en.wikipedia.org/wiki/Kiss_(band)" founded="1973"]
+	"LCD Soundsystem" [URL="https://en.wikipedia.org/wiki/LCD_Soundsystem" founded="2002"]
+	"Led Zeppelin" -> "Soundgarden"
+	"Led Zeppelin" -> "System of a Down"
+	"Led Zeppelin" [URL="https://en.wikipedia.org/wiki/Led_Zeppelin" founded="1968"]
+	"Metallica" -> "Avenged Sevenfold"
+	"Metallica" [URL="https://en.wikipedia.org/wiki/Metallica" founded="1981"]
+	"My Bloody Valentine" [URL="https://en.wikipedia.org/wiki/My_Bloody_Valentine_(band)" founded="1983"]
+	"New Order" -> "Arcade Fire"
+	"New Order" -> "Chvrches"
+	"New Order" -> "LCD Soundsystem"
+	"New Order" -> "System of a Down"
+	"New Order" -> "The Smashing Pumpkins"
+	"New Order" [URL="https://en.wikipedia.org/wiki/New_Order" founded="1980"]
+	"New York Dolls" -> "The Smiths"
+	"New York Dolls" [URL="https://en.wikipedia.org/wiki/New_York_Dolls" founded="1971"]
+	"Orchestral Manoeuvres in the Dark" -> "Depeche Mode"
+	"Orchestral Manoeuvres in the Dark" [URL="https://en.wikipedia.org/wiki/Orchestral_Manoeuvres_in_the_Dark" founded="1978"]
+	"Public Enemy" -> "My Bloody Valentine"
+	"Public Enemy" [URL="https://en.wikipedia.org/wiki/Public_Enemy" founded="1985"]
+	"Radiohead" [URL="https://en.wikipedia.org/wiki/Radiohead" founded="1985"]
+	"Roxy Music" -> "Depeche Mode"
+	"Roxy Music" [URL="https://en.wikipedia.org/wiki/Roxy_Music" founded="1970"]
+	"Siouxsie and the Banshees" -> "Depeche Mode"
+	"Siouxsie and the Banshees" -> "Joy Division"
+	"Siouxsie and the Banshees" -> "My Bloody Valentine"
+	"Siouxsie and the Banshees" -> "Radiohead"
+	"Siouxsie and the Banshees" -> "Slowdive"
+	"Siouxsie and the Banshees" -> "The Smiths"
+	"Siouxsie and the Banshees" -> "the Cure"
+	"Siouxsie and the Banshees" [URL="https://en.wikipedia.org/wiki/Siouxsie_and_the_Banshees" founded="1976"]
+	"Slowdive" [URL="https://en.wikipedia.org/wiki/Slowdive" founded="1989"]
+	"Soundgarden" [URL="https://en.wikipedia.org/wiki/Soundgarden" founded="1984"]
+	"Sparks" -> "New Order"
+	"Sparks" [URL="https://en.wikipedia.org/wiki/Sparks_(band)" founded="1966"]
+	"System of a Down" [URL="https://en.wikipedia.org/wiki/System_of_a_Down" founded="1994"]
+	"The Birthday Party" -> "My Bloody Valentine"
+	"The Birthday Party" [URL="https://en.wikipedia.org/wiki/The_Birthday_Party_(band)" founded="1977"]
+	"The Cramps" -> "My Bloody Valentine"
+	"The Cramps" -> "The Smiths"
+	"The Cramps" [URL="https://en.wikipedia.org/wiki/The_Cramps" founded="1976"]
+	"The Cult" -> "The Smiths"
+	"The Cult" [URL="https://en.wikipedia.org/wiki/The_Cult" founded="1982"]
+	"The Human League" -> "Depeche Mode"
+	"The Human League" [URL="https://en.wikipedia.org/wiki/The_Human_League" founded="1977"]
+	"The Killers" [URL="https://en.wikipedia.org/wiki/The_Killers" founded="2001"]
+	"The Smashing Pumpkins" [URL="https://en.wikipedia.org/wiki/The_Smashing_Pumpkins" founded="1988"]
+	"The Smiths" -> "Arctic Monkeys"
+	"The Smiths" -> "Belle and Sebastian"
+	"The Smiths" -> "The Strokes"
+	"The Smiths" [URL="https://en.wikipedia.org/wiki/The_Smiths" founded="1982"]
+	"The Strokes" -> "Arctic Monkeys"
+	"The Strokes" -> "The Killers"
+	"The Strokes" [URL="https://en.wikipedia.org/wiki/The_Strokes" founded="1998"]
+	"The Velvet Underground" -> "Depeche Mode"
+	"The Velvet Underground" -> "the Cure"
+	"The Velvet Underground" [URL="https://en.wikipedia.org/wiki/The_Velvet_Underground" founded="1964"]
+	"the Cure" -> "Chvrches"
+	"the Cure" -> "Depeche Mode"
+	"the Cure" -> "Interpol"
+	"the Cure" -> "Slowdive"
+	"the Cure" -> "The Killers"
+	"the Cure" -> "The Smashing Pumpkins"
+	"the Cure" [URL="https://en.wikipedia.org/wiki/The_Cure" founded="1978"]
+	"the bomb squad" -> "My Bloody Valentine"
+	"the bomb squad" [URL="https://en.wikipedia.org/wiki/The_Bomb_Squad" founded="1986"]
+}
