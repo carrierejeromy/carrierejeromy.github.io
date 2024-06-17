@@ -52,7 +52,7 @@ digraph D {
 	"Avenged Sevenfold" -> "Black Veil Brides"
 	"Marilyn Manson" -> "Avenged Sevenfold"
 	"Kiss" -> "Avenged Sevenfold"
-	"Marylin Manson" [URL="https://en.wikipedia.org/wiki/Marilyn_Manson" founded="1989"]
+	"Marilyn Manson" [URL="https://en.wikipedia.org/wiki/Marilyn_Manson" founded="1989"]
 	"Kiss" [URL="https://en.wikipedia.org/wiki/Kiss_(band)" founded="1973"]
 	"LCD Soundsystem" [URL="https://en.wikipedia.org/wiki/LCD_Soundsystem" founded="2002"]
 	"Led Zeppelin" -> "Soundgarden"
