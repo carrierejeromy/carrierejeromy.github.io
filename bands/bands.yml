@@ -1,0 +1,272 @@
+bands:
+  Alice in Chains:
+    founded: '1987'
+    influences:
+    - Godsmack
+    - System of a Down
+    url: https://en.wikipedia.org/wiki/Alice_in_Chains
+  Arcade Fire:
+    founded: '2001'
+    influences: []
+    url: https://en.wikipedia.org/wiki/Arcade_Fire
+  Arctic Monkeys:
+    founded: '2002'
+    influences: []
+    url: https://en.wikipedia.org/wiki/Arctic_Monkeys
+  Avenged Sevenfold:
+    founded: '1999'
+    influences:
+    - Black Veil Brides
+    url: https://en.wikipedia.org/wiki/Avenged_Sevenfold
+  Bad Brains:
+    founded: '1976'
+    influences:
+    - Deftones
+    - System of a Down
+    url: https://en.wikipedia.org/wiki/Bad_Brains
+  Bauhaus:
+    founded: '1978'
+    influences:
+    - System of a Down
+    url: https://en.wikipedia.org/wiki/Bauhaus_(band)
+  Belle and Sebastian:
+    founded: '1996'
+    influences: []
+    url: https://en.wikipedia.org/wiki/Belle_and_Sebastian
+  Black Sabbath:
+    founded: '1968'
+    influences:
+    - Alice in Chains
+    - Soundgarden
+    - System of a Down
+    - Avenged Sevenfold
+    url: https://en.wikipedia.org/wiki/Black_Sabbath
+  Black Veil Brides:
+    founded: '2006'
+    influences: []
+    url: https://en.wikipedia.org/wiki/Black_Veil_Brides
+  Chvrches:
+    founded: '2011'
+    influences: []
+    url: https://en.wikipedia.org/wiki/Chvrches
+  Daft Punk:
+    founded: '1993'
+    influences:
+    - Avenged Sevenfold
+    url: https://en.wikipedia.org/wiki/Daft_Punk
+  David Bowie:
+    founded: '1960'
+    influences:
+    - Depeche Mode
+    url: https://en.wikipedia.org/wiki/David_Bowie
+  Dead Kennedys:
+    founded: '1978'
+    influences:
+    - System of a Down
+    url: https://en.wikipedia.org/wiki/Dead_Kennedys
+  Def Leppard:
+    founded: '1976'
+    influences:
+    - System of a Down
+    - Avenged Sevenfold
+    url: https://en.wikipedia.org/wiki/Def_Leppard
+  Deftones:
+    founded: '1988'
+    influences: []
+    url: https://en.wikipedia.org/wiki/Deftones
+  Depeche Mode:
+    founded: '1980'
+    influences:
+    - System of a Down
+    url: https://en.wikipedia.org/wiki/Depeche_Mode
+  Faith No More:
+    founded: '1983'
+    influences:
+    - Deftones
+    url: https://en.wikipedia.org/wiki/Faith_No_More
+  Godsmack:
+    founded: '1995'
+    influences: []
+    url: https://en.wikipedia.org/wiki/Godsmack
+  Interpol:
+    founded: '1997'
+    influences: []
+    url: https://en.wikipedia.org/wiki/Interpol_(band)
+  Iron Maiden:
+    founded: '1975'
+    influences:
+    - Metallica
+    url: https://en.wikipedia.org/wiki/Iron_Maiden
+  Joy Division:
+    founded: '1976'
+    influences:
+    - My Bloody Valentine
+    - New Order
+    - the Cure
+    url: https://en.wikipedia.org/wiki/Joy_Division
+  Kiss:
+    founded: '1973'
+    influences:
+    - Avenged Sevenfold
+    url: https://en.wikipedia.org/wiki/Kiss_(band)
+  Kraftwerk:
+    founded: '1970'
+    influences:
+    - Depeche Mode
+    - New Order
+    url: https://en.wikipedia.org/wiki/Kraftwerk
+  LCD Soundsystem:
+    founded: '2002'
+    influences: []
+    url: https://en.wikipedia.org/wiki/LCD_Soundsystem
+  Led Zeppelin:
+    founded: '1968'
+    influences:
+    - Avenged Sevenfold
+    - Soundgarden
+    - System of a Down
+    url: https://en.wikipedia.org/wiki/Led_Zeppelin
+  Marilyn Manson:
+    founded: '1989'
+    influences:
+    - Avenged Sevenfold
+    url: https://en.wikipedia.org/wiki/Marilyn_Manson
+  Metallica:
+    founded: '1981'
+    influences:
+    - Black Veil Brides
+    - Avenged Sevenfold
+    url: https://en.wikipedia.org/wiki/Metallica
+  My Bloody Valentine:
+    founded: '1983'
+    influences: []
+    url: https://en.wikipedia.org/wiki/My_Bloody_Valentine_(band)
+  New Order:
+    founded: '1980'
+    influences:
+    - Arcade Fire
+    - Chvrches
+    - LCD Soundsystem
+    - System of a Down
+    - The Smashing Pumpkins
+    url: https://en.wikipedia.org/wiki/New_Order
+  New York Dolls:
+    founded: '1971'
+    influences:
+    - The Smiths
+    url: https://en.wikipedia.org/wiki/New_York_Dolls
+  Orchestral Manoeuvres in the Dark:
+    founded: '1978'
+    influences:
+    - Depeche Mode
+    url: https://en.wikipedia.org/wiki/Orchestral_Manoeuvres_in_the_Dark
+  Public Enemy:
+    founded: '1985'
+    influences:
+    - My Bloody Valentine
+    url: https://en.wikipedia.org/wiki/Public_Enemy
+  Radiohead:
+    founded: '1985'
+    influences: []
+    url: https://en.wikipedia.org/wiki/Radiohead
+  Rolling Stones:
+    founded: '1962'
+    influences:
+    - Avenged Sevenfold
+    url: https://en.wikipedia.org/wiki/The_Rolling_Stones
+  Roxy Music:
+    founded: '1970'
+    influences:
+    - Depeche Mode
+    url: https://en.wikipedia.org/wiki/Roxy_Music
+  Siouxsie and the Banshees:
+    founded: '1976'
+    influences:
+    - Depeche Mode
+    - Joy Division
+    - My Bloody Valentine
+    - Radiohead
+    - Slowdive
+    - The Smiths
+    - the Cure
+    url: https://en.wikipedia.org/wiki/Siouxsie_and_the_Banshees
+  Slowdive:
+    founded: '1989'
+    influences: []
+    url: https://en.wikipedia.org/wiki/Slowdive
+  Soundgarden:
+    founded: '1984'
+    influences: []
+    url: https://en.wikipedia.org/wiki/Soundgarden
+  Sparks:
+    founded: '1966'
+    influences:
+    - New Order
+    url: https://en.wikipedia.org/wiki/Sparks_(band)
+  System of a Down:
+    founded: '1994'
+    influences: []
+    url: https://en.wikipedia.org/wiki/System_of_a_Down
+  The Birthday Party:
+    founded: '1977'
+    influences:
+    - My Bloody Valentine
+    url: https://en.wikipedia.org/wiki/The_Birthday_Party_(band)
+  The Cramps:
+    founded: '1976'
+    influences:
+    - My Bloody Valentine
+    - The Smiths
+    url: https://en.wikipedia.org/wiki/The_Cramps
+  The Cult:
+    founded: '1982'
+    influences:
+    - The Smiths
+    url: https://en.wikipedia.org/wiki/The_Cult
+  The Human League:
+    founded: '1977'
+    influences:
+    - Depeche Mode
+    url: https://en.wikipedia.org/wiki/The_Human_League
+  The Killers:
+    founded: '2001'
+    influences: []
+    url: https://en.wikipedia.org/wiki/The_Killers
+  The Smashing Pumpkins:
+    founded: '1988'
+    influences: []
+    url: https://en.wikipedia.org/wiki/The_Smashing_Pumpkins
+  The Smiths:
+    founded: '1982'
+    influences:
+    - Arctic Monkeys
+    - Belle and Sebastian
+    - The Strokes
+    url: https://en.wikipedia.org/wiki/The_Smiths
+  The Strokes:
+    founded: '1998'
+    influences:
+    - Arctic Monkeys
+    - The Killers
+    url: https://en.wikipedia.org/wiki/The_Strokes
+  The Velvet Underground:
+    founded: '1964'
+    influences:
+    - Depeche Mode
+    - the Cure
+    url: https://en.wikipedia.org/wiki/The_Velvet_Underground
+  the Cure:
+    founded: '1978'
+    influences:
+    - Chvrches
+    - Depeche Mode
+    - Interpol
+    - Slowdive
+    - The Killers
+    - The Smashing Pumpkins
+    url: https://en.wikipedia.org/wiki/The_Cure
+  the bomb squad:
+    founded: '1986'
+    influences:
+    - My Bloody Valentine
+    url: https://en.wikipedia.org/wiki/The_Bomb_Squad
