@@ -43,7 +43,9 @@ for band_name in bands:
       fontcolor = '#000000'
     
    print(f'"{band_name}" [URL="{band["url"]}" founded="{band["founded"]}" fillcolor="#{color}" fontcolor="{fontcolor}"]')
-   for influence in band['influences']:
-      print(f'"{band_name}" -> "{influence}"')
+
+   if 'influences' in band:
+      for influence in band['influences']:
+         print(f'"{band_name}" -> "{influence}"')
 
 print('}')
