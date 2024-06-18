@@ -107,6 +107,11 @@ bands:
     influences:
     - Metallica
     url: https://en.wikipedia.org/wiki/Iron_Maiden
+  Jeff Buckley:
+    founded: 1990
+    influences:
+    - Coldplay
+    url: https://en.wikipedia.org/wiki/Jeff_Buckley
   Joy Division:
     founded: 1976
     influences:
@@ -289,3 +294,8 @@ bands:
     influences:
     - My Bloody Valentine
     url: https://en.wikipedia.org/wiki/The_Bomb_Squad
+  Travis:
+    founded: 1990
+    influences:
+    - Coldplay
+    url: https://en.wikipedia.org/wiki/Travis_(band)

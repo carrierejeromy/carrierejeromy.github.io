@@ -37,7 +37,8 @@ for band_name in bands:
    v = (founded-earliest)/(latest-earliest)
    rgb = get_color(v)
    color = ''.join(rgb)
-   if rgb[2] == 'ff':
+
+   if (rgb[2] == 'ff' and rgb[0] != 'ff' and rgb[1] != 'ff') or (rgb[0] == 'ff' and rgb[1] != 'ff' and rgb[2] != 'ff'):
       fontcolor = '#ffffff'
    else:
       fontcolor = '#000000'
