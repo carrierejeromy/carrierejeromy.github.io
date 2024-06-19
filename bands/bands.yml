@@ -61,6 +61,7 @@ bands:
     founded: 1960
     influences:
     - Depeche Mode
+    - The Killers
     url: https://en.wikipedia.org/wiki/David_Bowie
   Dead Kennedys:
     founded: 1978
@@ -88,6 +89,7 @@ bands:
     - Marilyn Manson
     - Nine Inch Nails
     - Rammstein
+    - The Killers
     url: https://en.wikipedia.org/wiki/Depeche_Mode
   Faith No More:
     founded: 1983
@@ -258,7 +260,8 @@ bands:
     url: https://en.wikipedia.org/wiki/The_Killers
   The Smashing Pumpkins:
     founded: 1988
-    influences: []
+    influences:
+    - The Killers
     url: https://en.wikipedia.org/wiki/The_Smashing_Pumpkins
   The Smiths:
     founded: 1982
