@@ -32,6 +32,7 @@ digraph D {
 "David Bowie" -> "The Killers"
 "Dead Kennedys" [URL="https://en.wikipedia.org/wiki/Dead_Kennedys" founded="1978" fillcolor="#33ff00" fontcolor="#000000"]
 "Dead Kennedys" -> "System of a Down"
+"Death Cab for Cutie" [URL="https://en.wikipedia.org/wiki/Death_Cab_for_Cutie" founded="1997" fillcolor="#004cff" fontcolor="#ffffff"]
 "Def Leppard" [URL="https://en.wikipedia.org/wiki/Def_Leppard" founded="1976" fillcolor="#65ff00" fontcolor="#000000"]
 "Def Leppard" -> "System of a Down"
 "Def Leppard" -> "Avenged Sevenfold"
@@ -148,6 +149,7 @@ digraph D {
 "the Cure" -> "Slowdive"
 "the Cure" -> "The Killers"
 "the Cure" -> "The Smashing Pumpkins"
+"the Cure" -> "Death Cab for Cutie"
 "the bomb squad" [URL="https://en.wikipedia.org/wiki/The_Bomb_Squad" founded="1986" fillcolor="#00ff99" fontcolor="#000000"]
 "the bomb squad" -> "My Bloody Valentine"
 "Travis" [URL="https://en.wikipedia.org/wiki/Travis_(band)" founded="1990" fillcolor="#00ffff" fontcolor="#000000"]

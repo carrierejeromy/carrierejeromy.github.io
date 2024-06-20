@@ -69,6 +69,9 @@ bands:
     influences:
     - System of a Down
     url: https://en.wikipedia.org/wiki/Dead_Kennedys
+  Death Cab for Cutie:
+    founded: 1997
+    url: https://en.wikipedia.org/wiki/Death_Cab_for_Cutie
   Def Leppard:
     founded: 1976
     influences:
@@ -315,6 +318,7 @@ bands:
     - Slowdive
     - The Killers
     - The Smashing Pumpkins
+    - Death Cab for Cutie
     url: https://en.wikipedia.org/wiki/The_Cure
   the bomb squad:
     founded: 1986
