@@ -15,6 +15,7 @@ digraph D {
 "Bad Brains" -> "System of a Down"
 "Bauhaus" [URL="https://en.wikipedia.org/wiki/Bauhaus_(band)" founded="1978" fillcolor="#33ff00" fontcolor="#000000"]
 "Bauhaus" -> "System of a Down"
+"Bauhaus" -> "Soundgarden"
 "Belle and Sebastian" [URL="https://en.wikipedia.org/wiki/Belle_and_Sebastian" founded="1996" fillcolor="#0066ff" fontcolor="#ffffff"]
 "Black Sabbath" [URL="https://en.wikipedia.org/wiki/Black_Sabbath" founded="1968" fillcolor="#ffcc00" fontcolor="#ffffff"]
 "Black Sabbath" -> "Alice in Chains"
@@ -45,10 +46,15 @@ digraph D {
 "Depeche Mode" -> "Nine Inch Nails"
 "Depeche Mode" -> "Rammstein"
 "Depeche Mode" -> "The Killers"
+"Echo & the Bunnymen" [URL="https://en.wikipedia.org/wiki/Echo_%26_the_Bunnymen" founded="1978" fillcolor="#33ff00" fontcolor="#000000"]
+"Echo & the Bunnymen" -> "Editors"
+"Editors" [URL="https://en.wikipedia.org/wiki/Editors_(band)" founded="2002" fillcolor="#3200ff" fontcolor="#ffffff"]
 "Faith No More" [URL="https://en.wikipedia.org/wiki/Faith_No_More" founded="1983" fillcolor="#00ff4c" fontcolor="#000000"]
 "Faith No More" -> "Deftones"
 "Godsmack" [URL="https://en.wikipedia.org/wiki/Godsmack" founded="1995" fillcolor="#007fff" fontcolor="#ffffff"]
 "Interpol" [URL="https://en.wikipedia.org/wiki/Interpol_(band)" founded="1997" fillcolor="#004cff" fontcolor="#ffffff"]
+"Interpol" -> "The Killers"
+"Interpol" -> "Editors"
 "Iron Maiden" [URL="https://en.wikipedia.org/wiki/Iron_Maiden" founded="1975" fillcolor="#7fff00" fontcolor="#000000"]
 "Iron Maiden" -> "Metallica"
 "Jeff Buckley" [URL="https://en.wikipedia.org/wiki/Jeff_Buckley" founded="1990" fillcolor="#00ffff" fontcolor="#000000"]
@@ -57,6 +63,7 @@ digraph D {
 "Joy Division" -> "My Bloody Valentine"
 "Joy Division" -> "New Order"
 "Joy Division" -> "the Cure"
+"Joy Division" -> "Editors"
 "Kiss" [URL="https://en.wikipedia.org/wiki/Kiss_(band)" founded="1973" fillcolor="#b2ff00" fontcolor="#000000"]
 "Kiss" -> "Avenged Sevenfold"
 "Kraftwerk" [URL="https://en.wikipedia.org/wiki/Kraftwerk" founded="1970" fillcolor="#ffff00" fontcolor="#000000"]
@@ -106,8 +113,14 @@ digraph D {
 "Sparks" [URL="https://en.wikipedia.org/wiki/Sparks_(band)" founded="1966" fillcolor="#ff9900" fontcolor="#ffffff"]
 "Sparks" -> "New Order"
 "System of a Down" [URL="https://en.wikipedia.org/wiki/System_of_a_Down" founded="1994" fillcolor="#0099ff" fontcolor="#ffffff"]
+"Talking Heads" [URL="https://en.wikipedia.org/wiki/Talking_Heads" founded="1975" fillcolor="#7fff00" fontcolor="#000000"]
+"Talking Heads" -> "White Lies"
+"Talking Heads" -> "LCD Soundsystem"
+"Talking Heads" -> "Radiohead"
 "The Birthday Party" [URL="https://en.wikipedia.org/wiki/The_Birthday_Party_(band)" founded="1977" fillcolor="#4cff00" fontcolor="#000000"]
 "The Birthday Party" -> "My Bloody Valentine"
+"The Cars" [URL="https://en.wikipedia.org/wiki/The_Cars" founded="1976" fillcolor="#65ff00" fontcolor="#000000"]
+"The Cars" -> "White Lies"
 "The Cramps" [URL="https://en.wikipedia.org/wiki/The_Cramps" founded="1976" fillcolor="#65ff00" fontcolor="#000000"]
 "The Cramps" -> "My Bloody Valentine"
 "The Cramps" -> "The Smiths"
@@ -139,4 +152,7 @@ digraph D {
 "the bomb squad" -> "My Bloody Valentine"
 "Travis" [URL="https://en.wikipedia.org/wiki/Travis_(band)" founded="1990" fillcolor="#00ffff" fontcolor="#000000"]
 "Travis" -> "Coldplay"
+"U2" [URL="https://en.wikipedia.org/wiki/U2" founded="1976" fillcolor="#65ff00" fontcolor="#000000"]
+"U2" -> "Editors"
+"White Lies" [URL="https://en.wikipedia.org/wiki/White_Lies_(band" founded="2007" fillcolor="#b200ff" fontcolor="#ffffff"]
 }

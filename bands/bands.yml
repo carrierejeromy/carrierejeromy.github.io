@@ -28,6 +28,7 @@ bands:
     founded: 1978
     influences:
     - System of a Down
+    - Soundgarden
     url: https://en.wikipedia.org/wiki/Bauhaus_(band)
   Belle and Sebastian:
     founded: 1996
@@ -91,6 +92,14 @@ bands:
     - Rammstein
     - The Killers
     url: https://en.wikipedia.org/wiki/Depeche_Mode
+  Echo & the Bunnymen:
+    founded: 1978
+    influences:
+    - Editors
+    url: https://en.wikipedia.org/wiki/Echo_%26_the_Bunnymen
+  Editors:
+    founded: 2002
+    url: https://en.wikipedia.org/wiki/Editors_(band)
   Faith No More:
     founded: 1983
     influences:
@@ -102,7 +111,9 @@ bands:
     url: https://en.wikipedia.org/wiki/Godsmack
   Interpol:
     founded: 1997
-    influences: []
+    influences:
+    - The Killers
+    - Editors
     url: https://en.wikipedia.org/wiki/Interpol_(band)
   Iron Maiden:
     founded: 1975
@@ -120,6 +131,7 @@ bands:
     - My Bloody Valentine
     - New Order
     - the Cure
+    - Editors
     url: https://en.wikipedia.org/wiki/Joy_Division
   Kiss:
     founded: 1973
@@ -233,11 +245,23 @@ bands:
     founded: 1994
     influences: []
     url: https://en.wikipedia.org/wiki/System_of_a_Down
+  Talking Heads:
+    founded: 1975
+    influences:
+    - White Lies
+    - LCD Soundsystem
+    - Radiohead
+    url: https://en.wikipedia.org/wiki/Talking_Heads
   The Birthday Party:
     founded: 1977
     influences:
     - My Bloody Valentine
     url: https://en.wikipedia.org/wiki/The_Birthday_Party_(band)
+  The Cars:
+    founded: 1976
+    influences:
+    - White Lies
+    url: https://en.wikipedia.org/wiki/The_Cars
   The Cramps:
     founded: 1976
     influences:
@@ -302,3 +326,11 @@ bands:
     influences:
     - Coldplay
     url: https://en.wikipedia.org/wiki/Travis_(band)
+  U2:
+    founded: 1976
+    influences:
+    - Editors
+    url: https://en.wikipedia.org/wiki/U2
+  White Lies:
+    founded: 2007
+    url: https://en.wikipedia.org/wiki/White_Lies_(band
