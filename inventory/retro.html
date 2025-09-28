@@ -2,6 +2,13 @@
   <HEAD>
     <TITLE>Retro/Vintage Computer Inventory</TITLE>
     <LINK REL="stylesheet" TYPE="text/css" HREF="style.css">
+    <style>
+      .half-width-div {
+	  width: 50%;
+	  padding: 20px;
+	  box-sizing: border-box; /* Includes padding and border in the 50% width */
+      }
+    </style>
   </HEAD>
   <BODY>
     <!--
@@ -16,43 +23,79 @@
     <H1>Retro/Vintage Computer Inventory</H1>
     <IMG SRC="retro_collection.jpg" width="500"/><BR>
     All machines are working unless otherwise indicated.
+    <div class="half-width-div">
     <H2>Rebuilds</H2>
     <UL>
-      <LI><A HREF="https://www.tindie.com/products/bobsbits/sixtyclone-commodore-64-replica-pcbs/">SixtyClone</A></LI>
-      250469 PCB purchased from Tindie. Built with as many original components as I could find.
-      I also have a 1541 and a 1702. Also running a <A HREF="https://www.commodore-4ever.com/products/commodore4ever-wifi-modem-v2-3">Commodore4ever Wifi modem</A>.
-      <LI><A HREF="https://retrospective.shop/evo64-rev1/">Evo64</A></LI>
-      Contains a <A HREF="https://accentual.com/vicii-kawari">VIC-II Kawari</A>.
-      <LI><A HREF="https://www.tindie.com/products/bobsbits/acorn-bbc-model-b-issue-7-pcb-replica/">Acorn BBC Model B Issue 7</A></LI>
+      <LI><A HREF="https://www.tindie.com/products/bobsbits/sixtyclone-commodore-64-replica-pcbs/">SixtyClone</A><BR>250469 PCB purchased from Tindie. Built with as many original components as I could find. I also have a 1541 and a 1702 and I'm running a <A HREF="https://www.commodore-4ever.com/products/commodore4ever-wifi-modem-v2-3">Commodore4ever Wifi modem</A>.</LI>
+      <LI><A HREF="https://retrospective.shop/evo64-rev1/">Evo64</A><BR>
+      Contains a <A HREF="https://accentual.com/vicii-kawari">VIC-II Kawari</A>.</LI>
+      <LI><A HREF="https://www.tindie.com/products/bobsbits/acorn-bbc-model-b-issue-7-pcb-replica/">Acorn BBC Model B Issue 7</A><BR>
       Purchased PCB from Tindie. Built from new components plus recovered ICs from a non-working machine.
-      Working. Last hurdle was realizing I needed the VC2023 fix.
-      <LI><A HREF="https://www.pcbway.com/project/shareproject/ZX_Spectrum_48_Issue_3B_Redrawn.html">ZX Spectrum 48 Issue 3B</A></LI>
-      Printed PCBs at PCBWay. I have extras.<BR/>
-      Built from new components (4164 RAM) plus recovered ICs from a non-working machine. Currently using the <A HREF="https://www.vretrodesign.com/products/vla82-spectrum-48k-ula-replacement">vLA82</A> ULA replacement absent a working original ULA (the one in the parts machine is dead).
+      Working. Last hurdle was realizing I needed the VC2023 fix.</LI>
+      <LI><A HREF="https://www.pcbway.com/project/shareproject/ZX_Spectrum_48_Issue_3B_Redrawn.html">ZX Spectrum 48 Issue 3B</A><BR>
+      Printed PCBs at PCBWay. I have extras. Built from new components (4164 RAM) plus recovered ICs from a non-working machine. Currently using the <A HREF="https://www.vretrodesign.com/products/vla82-spectrum-48k-ula-replacement">vLA82</A> ULA replacement absent a working original ULA (the one in the parts machine is dead).</LI>
+      <LI><A HREF="https://en.wikipedia.org/wiki/Altair_8800">Altair 8800</A><BR>
+      Lots of explanation required for this one.</LI>
     </UL>
     <H2>Original</H2>
     <UL>
-      <LI><A HREF="https://en.wikipedia.org/wiki/Commodore_PET">Commodore Pet</A> 8032 (1980)</LI>
-      Purchased on eBay from the UK. Replaced power supply. Working.
-      <LI><A HREF="https://en.wikipedia.org/wiki/TI-99/4A">TI-99/4A</A> (1981)</LI>
-      <LI><A HREF="https://en.wikipedia.org/wiki/Apple_IIe">Apple //e</A> (1983)</LI>
-      <LI><A HREF="https://en.wikipedia.org/wiki/NABU_Network">NABU Network</A> (1983)</LI>
-      Working. Running <A HREF="https://www.nabunetwork.com/resources/nabu-network-internet-adapter-software/">NABU Internet Adapter</A> via <A HREF="https://www.amazon.com/gp/product/B07G5P4CPR/">USR-TCP232-306</A> and an <A HREF="https://forums.nabu.ca/viewtopic.php?t=104">adapter</A>. Haven't gotten HDMI output working yet.
-      <LI><A HREF="https://en.wikipedia.org/wiki/IBM_Personal_Computer_XT">IBM Personal Computer XT</A> (1983)</LI>
-      <LI><A HREF="https://en.wikipedia.org/wiki/Apple_IIc">Apple IIc</A> (1984)</LI>
-      <LI><A HREF="https://en.wikipedia.org/wiki/Amiga_2000">Amiga 2000</A> (1987)</LI>
-      Have two, one with an untested Video Toaster. One with a working 2090 (2091?). Plus an untested 2091.
-      One has an RGBtoHDMI installed. Also have a 1084 monitor, but it's a bit flaky.
-      <LI><A HREF="https://en.m.wikipedia.org/wiki/Compaq_Portable_III">Compaq Portable III</A> (1987)</LI>
-      <LI><A HREF="https://en.m.wikipedia.org/wiki/SPARCstation_5">Sun SPARCstation 5</A> (1994)</LI>
-      <LI>Motorola VME chassis with MVME2604 PowerPC card</LI>
-      Working, but not booting - no media yet.
+      <LI>1980
+	<UL>
+	  <LI><A HREF="https://en.wikipedia.org/wiki/Commodore_PET">Commodore Pet</A> 8032</LI>
+	   Purchased on eBay from the UK. Replaced power supply. Working.
+	 </UL>
+       </LI>
+       <LI>1981
+	 <UL>
+	   <LI><A HREF="https://en.wikipedia.org/wiki/TI-99/4A">TI-99/4A</A></LI>
+	 </UL>
+       </LI>
+       <LI>1983
+	 <UL>
+	   <LI><A HREF="https://en.wikipedia.org/wiki/Apple_IIe">Apple //e</A></LI>
+	   <LI><A HREF="https://en.wikipedia.org/wiki/NABU_Network">NABU Network</A></LI>
+	   Running <A HREF="https://www.nabunetwork.com/resources/nabu-network-internet-adapter-software/">NABU Internet Adapter</A> via <A HREF="https://www.amazon.com/gp/product/B07G5P4CPR/">USR-TCP232-306</A> and an <A HREF="https://forums.nabu.ca/viewtopic.php?t=104">adapter</A>. Haven't gotten HDMI output working yet.
+	   <LI><A HREF="https://en.wikipedia.org/wiki/IBM_Personal_Computer_XT">IBM Personal Computer XT</A> (5160)</LI>
+	   <LI><A HREF="https://en.wikipedia.org/wiki/TRS-80_Model_100">TRS-80 Model 100</A></LI>
+	 </UL>
+       </LI>
+       <LI>1984
+	 <UL>
+	   <LI><A HREF="https://en.wikipedia.org/wiki/Apple_IIc">Apple IIc</A></LI>
+	 </UL>
+       </LI>
+       <LI>1987
+	 <UL>
+	   <LI><A HREF="https://en.wikipedia.org/wiki/Amiga_2000">Amiga 2000</A></LI>
+	   Have two, one with an untested Video Toaster. One with a working 2090 (2091?). Plus an untested 2091.
+	   One has an RGBtoHDMI installed. Also have a 1084 monitor, but it's a bit flaky.
+	   <LI><A HREF="https://en.m.wikipedia.org/wiki/Compaq_Portable_III">Compaq Portable III</A></LI>
+	 </UL>
+       </LI>
+       <LI>1989
+	 <UL>
+	   <LI><A HREF="https://en.wikipedia.org/wiki/Macintosh_SE/30">Mac SE/30</A></LI>
+	   Actually have two, but I clumsily ripped the SCSI chip off one motherboard when trying to replace it.
+	 </UL>
+       </LI>
+       <LI>1994
+	 <UL>
+	   <LI><A HREF="https://en.m.wikipedia.org/wiki/SPARCstation_5">Sun SPARCstation 5</A></LI>
+	 </UL>
+       </LI>
+       <LI>Uncertain
+	 <UL>
+	   <LI>Motorola VME chassis with MVME2604 PowerPC card</LI>
+	   Working, but not booting - no media yet.
+	 </UL>
+       </LI>
     </UL>
     <H2>SBCs</H2>
     <H2>Terminals</H2>
     <UL>
       <LI>Wyse WY-55</LI>
     </UL>
+    </div>
   </BODY>
 </HTML>
   
