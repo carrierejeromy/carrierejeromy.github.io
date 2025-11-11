@@ -172,9 +172,6 @@ bands:
     - Black Veil Brides
     - Avenged Sevenfold
     url: https://en.wikipedia.org/wiki/Metallica
-  Nine Inch Nails:
-    founded: 1988
-    url: https://en.wikipedia.org/wiki/Nine_Inch_Nails
   My Bloody Valentine:
     founded: 1983
     influences: []
@@ -193,11 +190,22 @@ bands:
     influences:
     - The Smiths
     url: https://en.wikipedia.org/wiki/New_York_Dolls
+  Nine Inch Nails:
+    founded: 1988
+    url: https://en.wikipedia.org/wiki/Nine_Inch_Nails
+  Nirvana:
+    founded: 1987
+    url: https://en.wikipedia.org/wiki/Nirvana_(band)
   Orchestral Manoeuvres in the Dark:
     founded: 1978
     influences:
     - Depeche Mode
     url: https://en.wikipedia.org/wiki/Orchestral_Manoeuvres_in_the_Dark
+  Pixies:
+    founded: 1986
+    url: https://en.wikipedia.org/wiki/Pixies_(band)
+    influences:
+    - Nirvana    
   Public Enemy:
     founded: 1985
     influences:

@@ -81,7 +81,6 @@ digraph D {
 "Metallica" [URL="https://en.wikipedia.org/wiki/Metallica" founded="1981" fillcolor="#00ff19" fontcolor="#000000"]
 "Metallica" -> "Black Veil Brides"
 "Metallica" -> "Avenged Sevenfold"
-"Nine Inch Nails" [URL="https://en.wikipedia.org/wiki/Nine_Inch_Nails" founded="1988" fillcolor="#00ffcb" fontcolor="#000000"]
 "My Bloody Valentine" [URL="https://en.wikipedia.org/wiki/My_Bloody_Valentine_(band)" founded="1983" fillcolor="#00ff4c" fontcolor="#000000"]
 "New Order" [URL="https://en.wikipedia.org/wiki/New_Order" founded="1980" fillcolor="#00ff00" fontcolor="#000000"]
 "New Order" -> "Arcade Fire"
@@ -91,8 +90,12 @@ digraph D {
 "New Order" -> "The Smashing Pumpkins"
 "New York Dolls" [URL="https://en.wikipedia.org/wiki/New_York_Dolls" founded="1971" fillcolor="#e5ff00" fontcolor="#000000"]
 "New York Dolls" -> "The Smiths"
+"Nine Inch Nails" [URL="https://en.wikipedia.org/wiki/Nine_Inch_Nails" founded="1988" fillcolor="#00ffcb" fontcolor="#000000"]
+"Nirvana" [URL="https://en.wikipedia.org/wiki/Nirvana_(band)" founded="1987" fillcolor="#00ffb2" fontcolor="#000000"]
 "Orchestral Manoeuvres in the Dark" [URL="https://en.wikipedia.org/wiki/Orchestral_Manoeuvres_in_the_Dark" founded="1978" fillcolor="#33ff00" fontcolor="#000000"]
 "Orchestral Manoeuvres in the Dark" -> "Depeche Mode"
+"Pixies" [URL="https://en.wikipedia.org/wiki/Pixies_(band)" founded="1986" fillcolor="#00ff99" fontcolor="#000000"]
+"Pixies" -> "Nirvana"
 "Public Enemy" [URL="https://en.wikipedia.org/wiki/Public_Enemy" founded="1985" fillcolor="#00ff7f" fontcolor="#000000"]
 "Public Enemy" -> "My Bloody Valentine"
 "Radiohead" [URL="https://en.wikipedia.org/wiki/Radiohead" founded="1985" fillcolor="#00ff7f" fontcolor="#000000"]
